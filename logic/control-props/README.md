@@ -1,4 +1,4 @@
-# Patrón de Diseño Control Props en React
+# Control Props
 >[!NOTE]
 >El patrón Control Props te permite crear componentes aún más flexibles y controlables, dándote el poder de controlar su estado desde fuera.
 
