@@ -1,4 +1,4 @@
-# CUSTOM-HOOKS
+# Custom Hooks
 > [!NOTE]  
 > “Un Hook personalizado es una función de JavaScript cuyo nombre comienza con ”use” y que puede llamar a otros Hooks”.
 
